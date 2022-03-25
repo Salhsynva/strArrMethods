@@ -1,0 +1,14 @@
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\bin\Debug\netcoreapp3.1\strArrMethods.exe
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\bin\Debug\netcoreapp3.1\strArrMethods.deps.json
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\bin\Debug\netcoreapp3.1\strArrMethods.runtimeconfig.json
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\bin\Debug\netcoreapp3.1\strArrMethods.runtimeconfig.dev.json
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\bin\Debug\netcoreapp3.1\strArrMethods.dll
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\bin\Debug\netcoreapp3.1\strArrMethods.pdb
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\obj\Debug\netcoreapp3.1\strArrMethods.csproj.AssemblyReference.cache
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\obj\Debug\netcoreapp3.1\strArrMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\obj\Debug\netcoreapp3.1\strArrMethods.AssemblyInfoInputs.cache
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\obj\Debug\netcoreapp3.1\strArrMethods.AssemblyInfo.cs
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\obj\Debug\netcoreapp3.1\strArrMethods.csproj.CoreCompileInputs.cache
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\obj\Debug\netcoreapp3.1\strArrMethods.dll
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\obj\Debug\netcoreapp3.1\strArrMethods.pdb
+C:\Users\HardSoft\Desktop\CODE.TASKS\c#\strArrMethods\strArrMethods\obj\Debug\netcoreapp3.1\strArrMethods.genruntimeconfig.cache
